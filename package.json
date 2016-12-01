@@ -1,0 +1,23 @@
+{
+  "name": "ewd-qoper8-redis",
+  "version": "0.1.0",
+  "description": "Integrates the Redis global storage database emulation with ewd-qoper8 worker processes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ewd-document-store": "",
+    "ewd-redis-globals": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robtweed/ewd-qoper8-redis.git"
+  },
+  "author": "Rob Tweed, M/Gateway Developments Ltd",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/robtweed/ewd-qoper8-redis/issues"
+  },
+  "homepage": "https://github.com/robtweed/ewd-qoper8-redis#readme"
+}
