@@ -1,6 +1,6 @@
 {
   "name": "ewd-qoper8-redis",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Integrates the Redis global storage database emulation with ewd-qoper8 worker processes",
   "main": "index.js",
   "scripts": {
